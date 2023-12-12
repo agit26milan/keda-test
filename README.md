@@ -20,6 +20,9 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Tech Stack
+saya menggunakan teknologi next js sebagai framework, karena lebih mudah di gunakan dan next.js support untuk PWA dan server side rendering sehinggak ketika akan melakukan scalable menjadi lebih mudah. Untuk styling saya menggunakan bantuan tailwind karena dokumentasinya lengkap dan mudah untuk melakukan kustom menggunakan tailwind
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
